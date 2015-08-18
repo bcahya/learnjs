@@ -1,5 +1,6 @@
 /**
  * Created by bayu on 11/1/14.
+ * http://www.tutorialspoint.com/nodejs/nodejs_scaling_application.htm
  */
 "use strict";
 var Master,
